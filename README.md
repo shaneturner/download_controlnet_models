@@ -9,5 +9,5 @@ This script reads a list of file urls from the model_urls.txt file; then downloa
 
 
 ## Notes
-This script requires the **tqdm** and **urllib** packages
-You can install it with `pip install tqdm urllib`. You may want to use your venv if needed as this might already contain some of these packages.
+This script requires the **tqdm** and **requests** packages
+You can install it with `pip install tqdm requests`. You may want to use your venv if needed as this might already contain some of these packages.
