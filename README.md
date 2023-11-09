@@ -3,7 +3,7 @@ This script reads a list of file urls from the model_urls.txt file; then downloa
 
 ## Steps
 
-1. Place `dl_default_models.py` **OR **`dl_models.py` and `model_urls.txt` files into the controlnet models directory
+1. Place `dl_default_models.py` **OR** `dl_models.py` and `model_urls.txt` files into the controlnet models directory
 2. From your a1111 base directory this is often found in [base_directory]/extensions/sd-webui-controlnet/models
 3. Run the script from the models directory with `python dl_default_models.py` or `python dl_models.py`
 
